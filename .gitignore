@@ -1,0 +1,5 @@
+# node dependency directories , Npm 관련 모듈 폴더
+node_modules/
+
+#.env
+.env
